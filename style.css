@@ -182,12 +182,14 @@ Social Media Section
 /*
 Footer
 */
-footer {
+footer
+{
   background-color: #87a854;
   color: #e3e3e3;
   padding-top: 2rem;
 }
-hr.light {
+hr.light
+{
   border-top: 1px solid #e3e3e3;
   width: 75%;
   margin-top: .8rem;
